@@ -22,7 +22,6 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
-      pwd
-      ls
       cd build
+      pwd
       ls
